@@ -28,4 +28,4 @@ Files uploaded:
 
 • HFSS Simulation model of the proposed 12-Element SIW MIMO Antenna With an Integrated Self-Triplexing System.
 
-• HFSS files along with the simulation and measured .xlsx files.
+• HFSS .aedt files along with the simulation and measured .xlsx files.
